@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Meeting Notes](README.md)
+* [My Notes](README.md)
